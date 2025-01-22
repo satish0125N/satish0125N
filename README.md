@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @satish0125N
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently Junior Web Developer.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Satish Thakor (@satish0125N)  
+🚀 I’m a Front-End Developer with 2.8+ years of experience, specializing in creating responsive, high-performance web applications.  
+👨‍💻 Skills:  
+  - **Languages:** HTML5, CSS3, JavaScript (ES6+), PHP  
+  - **Frameworks/Libraries:** React, Next.js, Tailwind CSS, GSAP, jQuery  
+  - **CMS & Tools:** WordPress, ACF (Advanced Custom Fields), WooCommerce  
+  - **Design:** Figma, Adobe XD, Photoshop  
+  - **Others:** SASS/SCSS, Bootstrap, SEO, Performance Optimization, Accessibility, Git, GitHub  
 
-<!---
-satish0125N/satish0125N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌟 Highlights of My Work:
+- Developed a custom WordPress theme using **SCSS** and **Stylelint** for code quality
+- Built **custom designs with animations** using **GSAP** and **jQuery** for a smooth user experience
+- Created animated **GSAP popups** and **preloaders** with creative design
+- Developed **Mobile Friendly Design** 
+- Hosted and developed **Zs Portfolio** showcasing my skills and projects
+
+### 💞️ I’m looking to collaborate on:
+- **Frontend projects** with a focus on animation, interactivity, and modern technologies like Three.js and GSAP
+- **Custom WordPress development** projects, including theme creation, plugin development, ACF integration, and **custom design with animations**
+
+### 📫 How to reach me:
+- **Portfolio Links:**
+
+- https://next-js-portfolio-ebon-three.vercel.app/
+- https://satish0125n.github.io/zs-portfolio/
+- https://zsportfolio.rf.gd/
+ 
