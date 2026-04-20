@@ -21,7 +21,5 @@
 ### 📫 How to reach me:
 - **Portfolio Links:**
 
-- https://next-js-portfolio-ebon-three.vercel.app/
-- https://satish0125n.github.io/zs-portfolio/
 - https://zsportfolio.rf.gd/
  
